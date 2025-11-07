@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 2.11.4
+
+### Patch Changes
+
+- [#13809](https://github.com/medusajs/medusa/pull/13809) [`a9d33bc8d11637230052f1729e85af5e174b2423`](https://github.com/medusajs/medusa/commit/a9d33bc8d11637230052f1729e85af5e174b2423) Thanks [@willbouch](https://github.com/willbouch)! - fix(core-flows,types): change doc for upload file functions
+
 ## 2.11.3
 
 ### Patch Changes

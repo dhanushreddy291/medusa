@@ -1,5 +1,12 @@
 # @medusajs/index
 
+## 2.11.4
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.11.4
+
 ## 2.11.3
 
 ### Patch Changes
